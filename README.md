@@ -38,7 +38,7 @@
 ---
 
 ### 🚀 Experience
-- - **IT Intern** (PaneraTech, Inc., Ankara)  
+- **IT Intern** (PaneraTech, Inc., Ankara)  
   Worked on developing an IT support chatbot using Microsoft Copilot Studio, integrating it with Microsoft Teams, and automating ticket creation via Power Automate and Azure DevOps. Also extended functionalities through custom Azure Functions.
 - **Erasmus+ Internship** (Institute of Computational Neuroscience, Hamburg, Germany)  
   Worked on brain-inspired AI models, graph theory, and neural network analysis.
