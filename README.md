@@ -4,10 +4,9 @@
 ---
 
 ### 🌍 About Me
-- 🎓 3rd year Computer Engineering student at **TED University** (Full Scholarship - High Honor)
+- 🎓 4th year Computer Engineering student at **TED University** 
 - 🔭 Currently exploring **AI, Deep Learning, and LLM-based Systems**
 - 🌱 Passionate about **Neuroscience Applications of AI** and **Real-world AI Solutions**
-- 👨‍💻 Founder & President of **TEDU AI and Data Science Society**
 - 📫 Reach me: **yavuzssvr1619@gmail.com**
 
 ---
@@ -16,6 +15,7 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>](https://www.linkedin.com/in/yavuz-selim-sever/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>](https://github.com/yavuzssvr19)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="30"/>](https://www.kaggle.com/yavuzsever)
+[<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="30"/>](https://huggingface.co/yavuzssvr)
 
 ---
 
@@ -34,26 +34,12 @@
 ---
 
 ### 🚀 Experience
+- - **IT Intern** (PaneraTech, Inc., Ankara)  
+  Worked on developing an IT support chatbot using Microsoft Copilot Studio, integrating it with Microsoft Teams, and automating ticket creation via Power Automate and Azure DevOps. Also extended functionalities through custom Azure Functions.
 - **Erasmus+ Internship** (Institute of Computational Neuroscience, Hamburg, Germany)  
   Worked on brain-inspired AI models, graph theory, and neural network analysis.
 - **Volunteer Internship** (Emcekare Mühendislik A.Ş., Ankara)  
   Focused on PLC programming, automation systems, and industrial control.
-
----
-
-### 📌 Projects
-- 🧠 **Erasmus+ Internship Project** – Developed tools for brain connectivity analysis using SAR and LAM models.
-- 🤖 **LLM-Based Financial Advisor & Teaching Assistant** – Multi-agent RAG system with dynamic prompt engineering.
-- 🎓 **AI-Supported Gifted Children Social Development Assistant (Moodle Integration)** – ChromaDB-based RAG with PHP & JS UI.
-- 🏥 **Teknofest AI in Health** – Cancer detection from mammography images using advanced image processing.
-
----
-
-### 🎓 Certifications
-- IBM – Data Visualization with Python  
-- Google – Foundations of Data Science  
-- Udemy – Complete AI & Machine Learning Bootcamp  
-- T.C. Sanayi ve Teknoloji Bakanlığı – AI Fundamentals
 
 ---
 
